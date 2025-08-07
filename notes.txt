@@ -1,0 +1,10 @@
+10pm, 8/6
+
+Was sitting on G Train, days after seeing KGLW at forest hills, and had this idea. 
+
+Could be fun due do some math and look at some similiarity measures betwen shows. KGLW.net has a plethora of data, prolly powered by the setlistfm.api. 
+
+Could piggy bank and pull that down, and then search for archives wav files and begin to do some analysis. Such as similiarty setlists, applause after song, if any.? Overal loudness of venue.
+
+Dunno, just gonna not going replicate what's on KGLW.net.
+
