@@ -12,9 +12,9 @@ woah, no auth. Will try not to throttle.
 
 10pm 9/15
 
-Able to pull all setlist and other fun this for a whole year. I think this may be the only thing we need. 
+Able to pull all setlist for a whole year. I think this may be the only thing we need. ** Edit, I may want to hit venue api.
 
-From here, can at least build cat analysis and begin to pull .wav files to begin audio processing. 
+From here, can at least build cat analysis and begin to pull .wav files to begin audio processing. I may have to scape the .wav files... 
 
 of the fields reutnr by this API method, I think I only want the following: 
 
