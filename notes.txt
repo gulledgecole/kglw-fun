@@ -41,4 +41,8 @@ of the fields reutnr by this API method, I think I only want the following:
     state
     country
 
+woah, theres a gizztapes API actually: https://tapes.kglw.net/2024-11-21
+
+now looking at this, i may only need that.. 
+
 ==========================
