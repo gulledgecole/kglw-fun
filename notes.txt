@@ -10,6 +10,8 @@ Dunno, just gonna not going replicate what's on KGLW.net.
 
 woah, no auth. Will try not to throttle.
 
+==========================
+
 10pm 9/15
 
 Able to pull all setlist for a whole year. I think this may be the only thing we need. ** Edit, I may want to hit venue api.
@@ -38,3 +40,5 @@ of the fields reutnr by this API method, I think I only want the following:
     city
     state
     country
+
+==========================
