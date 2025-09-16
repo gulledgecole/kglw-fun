@@ -9,3 +9,32 @@ Could piggy bank and pull that down, and then search for archives wav files and 
 Dunno, just gonna not going replicate what's on KGLW.net.
 
 woah, no auth. Will try not to throttle.
+
+10pm 9/15
+
+Able to pull all setlist and other fun this for a whole year. I think this may be the only thing we need. 
+
+From here, can at least build cat analysis and begin to pull .wav files to begin audio processing. 
+
+of the fields reutnr by this API method, I think I only want the following: 
+
+    * uniqueId
+    *show_id
+    showdata
+    showtitle
+    song_id
+    song_name
+    position
+    tracktime
+    transition_id , dunno what this is but could be cool.?
+    transition
+    venue_id
+    shownotes
+    showyear
+    showorder
+    tour_id
+    tourname
+    venuename
+    city
+    state
+    country
