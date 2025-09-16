@@ -18,9 +18,9 @@ From here, can at least build cat analysis and begin to pull .wav files to begin
 
 of the fields reutnr by this API method, I think I only want the following: 
 
-    * uniqueId
-    *show_id
-    showdata
+    uniqueId
+    show_id
+    showdate
     showtitle
     song_id
     song_name
@@ -28,7 +28,7 @@ of the fields reutnr by this API method, I think I only want the following:
     tracktime
     transition_id , dunno what this is but could be cool.?
     transition
-    venue_id
+    venue_id. ---> This also has its own endpoint which may contain stats about venue size / outside / etc etc which may be needed for audio anlysis to eliminate bias.
     shownotes
     showyear
     showorder
